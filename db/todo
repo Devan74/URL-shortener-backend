@@ -12,4 +12,4 @@ protected page - dashboard with logout
 ............................................................
 BACKEND- same till normal routes, need to concentrate on protected
 1.user and url models(not url name)
-2.urlModel->longUrl,shsortUrl,count,Date,
+2.urlModel->longUrl,shsortUrl,count,Date
